@@ -1,5 +1,5 @@
 name: Bump cacert.pem
-
+string
 on:
   workflow_dispatch:
   schedule:
